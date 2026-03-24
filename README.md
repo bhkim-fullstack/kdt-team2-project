@@ -48,5 +48,7 @@ Spring Boot와 AWS 클라우드를 활용하여
 ## ⚙️ 실행 방법(Spring Tools에서 실행 방법)
 1. git clone으로 프로젝트 가져오기
 2. IDE에서 프로젝트 불러오기
-3. 프로젝트 우클릭 -> Run As -> Spring Boot App 으로 실행
+3. /src/main/resources/application.properties에서 데이터베이스 정보 수정 후
+4. 프로젝트 우클릭 -> Run As -> Spring Boot App 으로 실행
+
 
